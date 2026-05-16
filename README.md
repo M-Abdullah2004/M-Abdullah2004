@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SOC and blue-team cybersecurity basics.**
 
-- 📫 How to reach me **leosherry2004@gmail.com**
+- 📫 How to reach me **m.abdullah.sec@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
