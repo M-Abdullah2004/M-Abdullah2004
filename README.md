@@ -20,6 +20,7 @@
 [+] University : NED University of Engineering & Technology, Karachi
 [+] CGPA       : 3.677 / 4.0
 [+] Focus      : SIEM Monitoring | Log Analysis | Incident Response | MITRE ATT&CK
+[+] Side Quest : Physical Pentesting - HackRF One, Flipper Zero (RF/hardware attacks)
 [+] Status     : Actively seeking SOC / Cybersecurity Analyst roles
 [+] Fun fact   : I read CVE advisories the way others read the news
 ```
@@ -29,6 +30,10 @@
 ## `>` experience --log
 
 ```
+[Current] Cyber Security Analyst @ FortDice
+  > Core focus: SOC monitoring, detection & incident response
+  > Side focus: Physical pentesting - HackRF One, Flipper Zero, RF/hardware attack surfaces
+
 [2026-06 -> 2026-07] Cyber Security Intern @ Atlas Honda (Onsite)
   > Enterprise networking, remote admin (TightVNC/PuTTY)
   > Configured Wazuh syslog pipeline for Linux systems + email alerting
@@ -82,12 +87,15 @@
 ![Wazuh](https://img.shields.io/badge/-Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=39FF14)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=39FF14)
 ![Kali](https://img.shields.io/badge/-Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
+![pfSense](https://img.shields.io/badge/-pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=39FF14)
 
 | Category | Tools |
 |---|---|
 | **SIEM / Monitoring** | Wazuh, Windows Event Viewer |
 | **Network Analysis** | Wireshark, Nmap, PCAP Analysis |
+| **Perimeter / Firewall** | pfSense (active-response, ACL-based network defense) |
 | **Offensive / Testing** | Metasploit (Basic), Burp Suite, SQLmap, John the Ripper |
+| **Physical / RF Pentesting** | HackRF One, Flipper Zero |
 | **Frameworks** | MITRE ATT&CK, Cyber Kill Chain |
 | **Networking** | VLANs, ACLs, STP, DHCP, RIP v2, Subnetting, Huawei eNSP |
 
