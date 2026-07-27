@@ -1,21 +1,155 @@
-<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">SOC-minded cybersecurity student from Pakistan defending the digital front.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **SOC and blue-team cybersecurity basics.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=180&section=header&text=Muhammad%20Abdullah&fontSize=45&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20%7C%20CEH%20Certified%20%7C%20Blue%20Team&descAlignY=58&descColor=39ff14" width="100%"/>
 
-- 📫 How to reach me **m.abdullah.sec@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=root%40abdullah%3A~%23+whoami;CEH+Certified+%7C+Blue+Team+Intern;Actively+seeking+SOC+%2F+Cybersecurity+roles;Status%3A+open_to_work+%3D+true" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-abdullah0000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abdullah0000" height="30" width="40" /></a>
-<a href="https://fb.com/sherryar786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sherryar786" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muhammadabdullah786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammadabdullah786" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Open to Work](https://img.shields.io/badge/STATUS-Actively%20Seeking%20SOC%20Roles-39ff14?style=for-the-badge&labelColor=0d1117)
 
+</div>
+
+<br>
+
+\`\`\`bash
+> cat about_me.txt
+\`\`\`
+
+\`\`\`
+[+] Name       : Muhammad Abdullah
+[+] Role       : Final-Year CS Student | Blue Team / SOC Enthusiast
+[+] University : NED University of Engineering & Technology, Karachi
+[+] CGPA       : 3.677 / 4.0
+[+] Focus      : SIEM Monitoring | Log Analysis | Incident Response | MITRE ATT&CK
+[+] Status     : Actively seeking SOC / Cybersecurity Analyst roles
+[+] Fun fact   : I read CVE advisories the way others read the news
+\`\`\`
+
+<br>
+
+## `>` experience --log
+
+\`\`\`
+[2026-06 -> 2026-07] Cyber Security Intern @ Atlas Honda (Onsite)
+  > Enterprise networking, remote admin (TightVNC/PuTTY)
+  > Configured Wazuh syslog pipeline for Linux systems + email alerting
+
+[2026-03 -> 2026-05] Blue Team Intern @ Cyberster (Remote)
+  > Deployed Wazuh SIEM across simulated enterprise topologies
+  > Mapped detections to MITRE ATT&CK | Authored custom detection rules
+  > Triaged security events, brute-force & anomalous file system change alerts
+\`\`\`
+
+<br>
+
+## `>` featured_projects --top 2
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ Wazuh SOC Home Lab**
+`Wazuh` `pfSense` `Kali Linux` `Windows 10`
+
+- Architected a 3-environment Wazuh SIEM lab for centralized log collection & incident response
+- Custom detection rules for brute-force, privilege escalation & unauthorized access mapped to MITRE ATT&CK
+- Integrated VirusTotal API for automated malicious hash checks + pfSense active-response firewall rules
+
+</td>
+<td width="50%" valign="top">
+
+**🏥 City Hospital Enterprise Network**
+`Huawei eNSP`
+
+- Simulated a 5-department enterprise network using 11 technologies (VLANs, RIP v2, ACLs, STP, FTP & more)
+- Deployed ACL-based controls restricting unauthorized inter-department access
+- Built multi-server FTP infrastructure for centralized medical record backup
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `>` tech_stack --list
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=39FF14)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
+![Wazuh](https://img.shields.io/badge/-Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=39FF14)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=39FF14)
+![Kali](https://img.shields.io/badge/-Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
+
+</div>
+
+<br>
+
+## `>` toolkit --scan
+
+<div align="center">
+
+| Category | Tools |
+|---|---|
+| **SIEM / Monitoring** | Wazuh, Windows Event Viewer |
+| **Network Analysis** | Wireshark, Nmap, PCAP Analysis |
+| **Offensive / Testing** | Metasploit (Basic), Burp Suite, SQLmap, John the Ripper |
+| **Frameworks** | MITRE ATT&CK, Cyber Kill Chain |
+| **Networking** | VLANs, ACLs, STP, DHCP, RIP v2, Subnetting, Huawei eNSP |
+
+</div>
+
+<br>
+
+## `>` certifications --verify
+
+<div align="center">
+
+![CEH](https://img.shields.io/badge/Certified_Ethical_Hacker-EC--Council-39ff14?style=for-the-badge&labelColor=0d1117)
+![Google](https://img.shields.io/badge/Google_Cybersecurity-Google-39ff14?style=for-the-badge&labelColor=0d1117)
+![SOC101](https://img.shields.io/badge/SOC_101-TCM_Security-39ff14?style=for-the-badge&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux_Fundamentals-TCM_Security-39ff14?style=for-the-badge&labelColor=0d1117)
+![PenTest](https://img.shields.io/badge/Penetration_Testing-Packt-39ff14?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br>
+
+## `>` github_stats --verbose
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Abdullah2004&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abdullah2004&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Abdullah2004&theme=github-dark-blue&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&border=39ff14" />
+
+</div>
+
+<br>
+
+## `>` connect --secure
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/muhammad-abdullah0000)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:m.abdullah.sec@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/M-Abdullah2004)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=M-Abdullah2004&color=39ff14&style=flat-square&label=TRANSMISSIONS+RECEIVED)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=100&section=footer"/>
+
 </div>
