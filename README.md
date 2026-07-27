@@ -12,11 +12,9 @@
 
 <br>
 
-\`\`\`bash
-> cat about_me.txt
-\`\`\`
+## `>` cat about_me.txt
 
-\`\`\`
+```
 [+] Name       : Muhammad Abdullah
 [+] Role       : Final-Year CS Student | Blue Team / SOC Enthusiast
 [+] University : NED University of Engineering & Technology, Karachi
@@ -24,13 +22,13 @@
 [+] Focus      : SIEM Monitoring | Log Analysis | Incident Response | MITRE ATT&CK
 [+] Status     : Actively seeking SOC / Cybersecurity Analyst roles
 [+] Fun fact   : I read CVE advisories the way others read the news
-\`\`\`
+```
 
 <br>
 
 ## `>` experience --log
 
-\`\`\`
+```
 [2026-06 -> 2026-07] Cyber Security Intern @ Atlas Honda (Onsite)
   > Enterprise networking, remote admin (TightVNC/PuTTY)
   > Configured Wazuh syslog pipeline for Linux systems + email alerting
@@ -39,7 +37,7 @@
   > Deployed Wazuh SIEM across simulated enterprise topologies
   > Mapped detections to MITRE ATT&CK | Authored custom detection rules
   > Triaged security events, brute-force & anomalous file system change alerts
-\`\`\`
+```
 
 <br>
 
@@ -72,7 +70,7 @@
 
 <br>
 
-## `>` tech_stack --list
+## `>` tech_stack --scan --verbose
 
 <div align="center">
 
@@ -84,14 +82,6 @@
 ![Wazuh](https://img.shields.io/badge/-Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=39FF14)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=39FF14)
 ![Kali](https://img.shields.io/badge/-Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
-
-</div>
-
-<br>
-
-## `>` toolkit --scan
-
-<div align="center">
 
 | Category | Tools |
 |---|---|
@@ -105,30 +95,49 @@
 
 <br>
 
-## `>` certifications --verify
+## `>` certifications --verify --all
 
 <div align="center">
 
-![CEH](https://img.shields.io/badge/Certified_Ethical_Hacker-EC--Council-39ff14?style=for-the-badge&labelColor=0d1117)
-![Google](https://img.shields.io/badge/Google_Cybersecurity-Google-39ff14?style=for-the-badge&labelColor=0d1117)
-![SOC101](https://img.shields.io/badge/SOC_101-TCM_Security-39ff14?style=for-the-badge&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux_Fundamentals-TCM_Security-39ff14?style=for-the-badge&labelColor=0d1117)
-![PenTest](https://img.shields.io/badge/Penetration_Testing-Packt-39ff14?style=for-the-badge&labelColor=0d1117)
+<table>
+<tr>
+<td align="center" width="20%">
 
-</div>
+🎓<br>
+**Certified Ethical Hacker**<br>
+<sub>EC-Council</sub>
 
-<br>
+</td>
+<td align="center" width="20%">
 
-## `>` github_stats --verbose
+🔐<br>
+**Google Cybersecurity**<br>
+<sub>Google</sub>
 
-<div align="center">
+</td>
+<td align="center" width="20%">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=M-Abdullah2004&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abdullah2004&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_color=39ff14" />
+🛰️<br>
+**SOC 101**<br>
+<sub>TCM Security</sub>
 
-<br>
+</td>
+<td align="center" width="20%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Abdullah2004&theme=github-dark-blue&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&border=39ff14" />
+🐧<br>
+**Linux Fundamentals**<br>
+<sub>TCM Security</sub>
+
+</td>
+<td align="center" width="20%">
+
+🎯<br>
+**Penetration Testing**<br>
+<sub>Packt</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
