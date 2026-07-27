@@ -31,8 +31,7 @@
 
 ```
 [Current] Cyber Security Analyst @ FortDice
-  > Core focus: SOC monitoring, detection & incident response
-  > Side focus: Physical pentesting - HackRF One, Flipper Zero, RF/hardware attack surfaces
+  > focus: Physical pentesting - HackRF One, Flipper Zero, RF/hardware attack surfaces
 
 [2026-06 -> 2026-07] Cyber Security Intern @ Atlas Honda (Onsite)
   > Enterprise networking, remote admin (TightVNC/PuTTY)
